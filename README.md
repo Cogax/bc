@@ -1,1 +1,2 @@
-`docker-compose up`
+- `docker-compose up`
+- visit `localhost:5000`
